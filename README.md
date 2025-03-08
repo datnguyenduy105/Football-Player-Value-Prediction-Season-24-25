@@ -43,7 +43,7 @@ The project follows a structured approach:
 
 ### **Business/Real-World Application:**
 
-This model can be a valuable tool for football clubs to identify undervalued players in the transfer market based on their statistical performance compared to their current market value. Furthermore, it could assist in projecting the future market value increase of promising young players based on their developing skillset.
+This model can be a valuable tool for football clubs to identify valued players in the transfer market based on their statistical performance compared to their current market value. Furthermore, it could assist in projecting the future market value increase of promising young players based on their developing skillset.
 
 ---
 
